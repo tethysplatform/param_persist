@@ -1,5 +1,5 @@
-WIP: param_persist
-==================
+Param Persist
+=============
 
 ![Main-CI Workflow](https://github.com/Aquaveo/param_persist/workflows/Main-CI/badge.svg)
 
