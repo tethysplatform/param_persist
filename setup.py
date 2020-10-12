@@ -25,12 +25,12 @@ with open(path.join(setup_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name=release_package,
-    version='0.1.1',
+    version='0.1.2',
     description='The param_persist provides functionality to persist param classes.',
     long_description=long_description,
     author='gagelarsen',
     author_email='glarsen@aquaveo.com',
-    url='https://github.com/Aquaveo/param_persist',
+    url='https://github.com/tethysplatform/param_persist',
     license='BSD 2-Clause License',
     packages=find_namespace_packages(),
     package_data={},
