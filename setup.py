@@ -25,9 +25,10 @@ with open(path.join(setup_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name=release_package,
-    version='0.1.2',
+    version='0.1.3',
     description='The param_persist provides functionality to persist param classes.',
     long_description=long_description,
+    long_description_content_type='text/markdown',
     author='gagelarsen',
     author_email='glarsen@aquaveo.com',
     url='https://github.com/tethysplatform/param_persist',
